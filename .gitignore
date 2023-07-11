@@ -1,0 +1,14 @@
+*.o
+*.o.*
+*.a
+*.s
+*.ko
+*.ko.*
+*.Module.*
+*.modules.*
+*Module.*
+*modules.*
+*.mod
+*.mod.*
+compile_commands.json
+result
